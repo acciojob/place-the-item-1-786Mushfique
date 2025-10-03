@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;           
+    width: 80%;                     
+    margin: 50px auto;    
+}
+.green{
+	background-color: green;
+	width: 70px;
+	height: 70px;
+}
+.red{
+	background-color: red;
+	width: 70px;
+	height: 70px;
+}
+.blue{
+	background-color: blue;
+	width: 70px;
+	height: 70px
+}
+
+	
+}
